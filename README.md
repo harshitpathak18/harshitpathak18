@@ -3,7 +3,7 @@ Hi 👋, I'm Harshit Pathak<br>A passionate software developer 👨‍💻 skill
 
 
 
-# <div style="background-color: #ff758f; color: white; padding: 20px; border-radius: 10px;text-align: center;font-family: 'Arial', sans-serif; font-size: 35px; margin: 5px; font-weight:bold;">🌐 Socials</div>
+<div style="background-color: #ff758f; color: white; padding: 20px; border-radius: 10px;text-align: center;font-family: 'Arial', sans-serif; font-size: 35px; margin: 5px; font-weight:bold;">🌐 Socials</div>
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%; max-width: 500px; margin: 20px auto; gap: 20px; flex-wrap: wrap;">
   <a href="https://linkedin.com/in/harshitpathak18" target="_blank" style="text-decoration: none;">
       <img src="https://cdn-icons-png.flaticon.com/128/4494/4494497.png" alt="LinkedIn" style="width: 10vw; height: auto; transition: transform 0.4s ease;">
