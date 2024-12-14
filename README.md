@@ -5,6 +5,7 @@
 <img align="right" alt="GIF" height="250px" src="https://camo.githubusercontent.com/a2eccbee43e0a4ad62babc1d19786e81ba8e871a81dab4ee17f31336dcf6272c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61352f33352f36302f61353335363063383038383930306532363638383066373739646163636564372e676966" />
 
 <br>
+
 #### Passionate Data Scientist
 
 - 🌱 I’m currently learning LLMs
