@@ -4,8 +4,20 @@ Hi 👋, I'm Harshit Pathak<br>A passionate software developer 👨‍💻 skill
 
 
 #### 🌐 Socials:
-[![Kaggle](https://img.icons8.com/bubbles/512/kaggle.png)](https://www.kaggle.com/harshitpathak18)
-[![LinkedIn](https://cdn-icons-png.flaticon.com/128/4494/4494497.png)](https://linkedin.com/in/harshitpathak18) [![Github](https://cdn-icons-png.flaticon.com/128/270/270798.png)](https://github.com/harshitpathak18) [![Instagram](https://cdn-icons-png.flaticon.com/128/3955/3955024.png)](https://instagram.com/harshitpathak18) 
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%; max-width: 500px; margin: 20px auto;">
+  <a href="https://www.kaggle.com/harshitpathak18" target="_blank">
+      <img src="https://img.icons8.com/bubbles/512/kaggle.png" alt="Kaggle" style="width: 40px; height: 40px; transition: transform 0.3s ease;">
+  </a>
+  <a href="https://linkedin.com/in/harshitpathak18" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/128/4494/4494497.png" alt="LinkedIn" style="width: 40px; height: 40px; transition: transform 0.3s ease;">
+  </a>
+  <a href="https://github.com/harshitpathak18" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/128/270/270798.png" alt="GitHub" style="width: 40px; height: 40px; transition: transform 0.3s ease;">
+  </a>
+  <a href="https://instagram.com/harshitpathak18" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" alt="Instagram" style="width: 40px; height: 40px; transition: transform 0.3s ease;">
+  </a>
+</div>
 
 
 
