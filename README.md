@@ -4,7 +4,7 @@ Hi 👋, I'm Harshit Pathak<br>A passionate software developer 👨‍💻 skill
 
 
 #### 🌐 Socials:
-[![Kaggle](https://img.icons8.com/?size=160&id=s1rM4KTx2Huf&format=png)](https://www.kaggle.com/harshitpathak18)
+[![Kaggle](https://iconscout.com/free-icon/kaggle-3628869)](https://www.kaggle.com/harshitpathak18)
 [![LinkedIn](https://cdn-icons-png.flaticon.com/128/4494/4494497.png)](https://linkedin.com/in/harshitpathak18) [![Github](https://cdn-icons-png.flaticon.com/128/270/270798.png)](https://github.com/harshitpathak18) [![Instagram](https://cdn-icons-png.flaticon.com/128/3955/3955024.png)](https://instagram.com/harshitpathak18) 
 
 
