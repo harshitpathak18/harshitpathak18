@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Harshit Pathak
-<h1 style="color:green">Hekko</h1>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 
