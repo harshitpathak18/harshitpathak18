@@ -24,9 +24,15 @@
 <br><br>
 <h2>🌐 Socials</h2>
 
- [![LinkedIn](https://cdn-icons-png.flaticon.com/128/4494/4494497.png)](https://linkedin.com/in/harshitpathak18)
- [![Github](https://cdn-icons-png.flaticon.com/128/270/270798.png)](https://github.com/harshitpathak18)
- [![Instagram](https://cdn-icons-png.flaticon.com/128/3955/3955024.png)](https://instagram.com/harshitpathak18) 
+<a href="https://linkedin.com/in/harshitpathak18">
+  <img src="https://cdn-icons-png.flaticon.com/128/4494/4494497.png" width="24" height="24" />
+</a>
+<a href="https://github.com/harshitpathak18">
+  <img src="https://cdn-icons-png.flaticon.com/128/270/270798.png" width="24" height="24" />
+</a>
+<a href="https://instagram.com/harshitpathak18">
+  <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="24" height="24" />
+</a>
 
 
 <br><br>
