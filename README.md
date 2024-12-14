@@ -1,5 +1,14 @@
-## 💫 About Me:
-Hi 👋, I'm Harshit Pathak<br>A passionate software developer 👨‍💻 skilled in AI, Machine Learning, NLP, and web development<br><br><br>🌱 I’m currently learning LLMs<br><br>💬 Ask me about Data Science and related technologies<br><br>⚡ Fun fact I’m detail-oriented and love optimizing things—not just in my code but in how I present ideas and solutions! ⚡📊<br>
+### Hi there 👋 I'm Harshit Pathak
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
+## A passionate software developer 👨‍💻 skilled in AI, Machine Learning, NLP, and web development
+
+- 🌱 I’m currently learning LLMs
+- 💬 Ask me about Data Science and related technologies
+- 💪🏼 Future Goals: Learn more technologies
+- ⚡ Fun fact I’m detail-oriented and love optimizing things—not just in my code but in how I present ideas and solutions! ⚡📊
+
 
 
 <br>
