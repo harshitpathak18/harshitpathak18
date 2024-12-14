@@ -7,9 +7,9 @@
 #### Passionate Data Scientist
 
 - 🌱 I’m currently learning LLMs
-- 💬 Ask me about Data Science and related technologies
+- 💬 Ask Me: about Data Science and related technologies
 - 💪🏼 Future Goals: Learn more technologies
-- ⚡ Fun fact I’m detail-oriented and love optimizing things—not just in my code but in how I present ideas and solutions! ⚡📊
+- ⚡ Fun Fact: I’m detail-oriented and love optimizing things—not just in my code but in how I present ideas and solutions! ⚡📊
 
 
 
