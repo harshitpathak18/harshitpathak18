@@ -15,7 +15,7 @@ Hi 👋, I'm Harshit Pathak<br>A passionate software developer 👨‍💻 skill
       <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" alt="Instagram" style="width: 10vw; height: auto; transition: transform 0.4s ease;">
   </a>
   <a href="https://www.kaggle.com/harshitpathak18" target="_blank" style="text-decoration: none;">
-      <img src="https://img.icons8.com/bubbles/512/kaggle.png" alt="Kaggle" style="width: 10vw; height: auto; transition: transform 0.4s ease;">
+      <img src="https://img.icons8.com/bubbles/512/kaggle.png" alt="Kaggle" style="width: 11vw; height: auto; transition: transform 0.4s ease;">
   </a>
 </div>
 
