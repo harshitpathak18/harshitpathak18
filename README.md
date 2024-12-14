@@ -25,13 +25,13 @@
 <h2>🌐 Socials</h2>
 
 <a href="https://linkedin.com/in/harshitpathak18">
-  <img src="https://cdn-icons-png.flaticon.com/128/4494/4494497.png" width="24" height="24" />
+  <img src="https://cdn-icons-png.flaticon.com/128/4494/4494497.png" width="60" height="60" />
 </a>
 <a href="https://github.com/harshitpathak18">
-  <img src="https://cdn-icons-png.flaticon.com/128/270/270798.png" width="24" height="24" />
+  <img src="https://cdn-icons-png.flaticon.com/128/270/270798.png" width="60" height="60" />
 </a>
 <a href="https://instagram.com/harshitpathak18">
-  <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="24" height="24" />
+  <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="60" height="60" />
 </a>
 
 
