@@ -4,6 +4,7 @@
 
 <img align="right" alt="GIF" height="250px" src="https://camo.githubusercontent.com/a2eccbee43e0a4ad62babc1d19786e81ba8e871a81dab4ee17f31336dcf6272c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61352f33352f36302f61353335363063383038383930306532363638383066373739646163636564372e676966" />
 
+<br>
 #### Passionate Data Scientist
 
 - 🌱 I’m currently learning LLMs
@@ -22,7 +23,9 @@
 <br><br>
 <h2>🌐 Socials</h2>
 
- [![LinkedIn](https://cdn-icons-png.flaticon.com/128/4494/4494497.png)](https://linkedin.com/in/harshitpathak18) [![Github](https://cdn-icons-png.flaticon.com/128/270/270798.png)](https://github.com/harshitpathak18) [![Instagram](https://cdn-icons-png.flaticon.com/128/3955/3955024.png)](https://instagram.com/harshitpathak18) 
+ [![LinkedIn](https://cdn-icons-png.flaticon.com/128/4494/4494497.png)](https://linkedin.com/in/harshitpathak18)
+ [![Github](https://cdn-icons-png.flaticon.com/128/270/270798.png)](https://github.com/harshitpathak18)
+ [![Instagram](https://cdn-icons-png.flaticon.com/128/3955/3955024.png)](https://instagram.com/harshitpathak18) 
 
 
 <br><br>
