@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## A passionate software developer 👨‍💻 skilled in AI, Machine Learning, NLP, and web development
+## Passionate Data Scientist
 
 - 🌱 I’m currently learning LLMs
 - 💬 Ask me about Data Science and related technologies
