@@ -2,7 +2,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://camo.githubusercontent.com/a2eccbee43e0a4ad62babc1d19786e81ba8e871a81dab4ee17f31336dcf6272c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61352f33352f36302f61353335363063383038383930306532363638383066373739646163636564372e676966" />
 
 #### Passionate Data Scientist
 
