@@ -14,7 +14,9 @@
 - ⚡ Fun Fact: I’m detail-oriented and love optimizing things—not just in my code but in how I present ideas and solutions! ⚡📊
 
 <br><br>
+![Githu Stats 1](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitpathak18)
 ![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitpathak18)
+![Githu Stats 3](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitpathak18)
 
 <br><br>
 <h2>⚙️ Tech Stack</h2>
