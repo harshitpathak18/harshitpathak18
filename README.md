@@ -14,7 +14,9 @@
 - ⚡ Fun Fact: I’m detail-oriented and love optimizing things—not just in my code but in how I present ideas and solutions! ⚡📊
 
 <br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitpathak18)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitpathak18" style="max-width: 100%; height: auto;" />
+</div>
 
 
 <br><br>
