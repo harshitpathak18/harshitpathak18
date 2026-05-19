@@ -128,23 +128,25 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 
 <div align="center">
 
-<!-- Main Stats + Top Languages (cached to prevent API timeouts) -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshitpathak18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&cache_seconds=1800&rank_icon=github&custom_title=GitHub%20Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitpathak18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&cache_seconds=1800&langs_count=8&hide=html,css,jupyter%20notebook"/>
-
-<br/><br/>
-
-<!-- Profile Summary Card (extremely reliable, never breaks) -->
+<!-- Profile Summary (NEVER breaks - keep this) -->
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitpathak18&theme=tokyonight"/>
 
 <br/><br/>
 
-<!-- Contribution Snake (self-hosted, never errors once set up) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitpathak18/harshitpathak18/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitpathak18/harshitpathak18/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshitpathak18/harshitpathak18/output/github-contribution-grid-snake.svg"/>
-</picture>
+<!-- Stats + Languages via Profile Summary Cards (ZERO timeout issues) -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshitpathak18&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitpathak18&theme=tokyonight"/>
+
+<br/><br/>
+
+<!-- Productive Time Card (bonus insight) -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitpathak18&theme=tokyonight&utcOffset=5"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshitpathak18&theme=tokyonight"/>
+
+<br/><br/>
+
+<!-- Contribution Graph (reliable, no setup needed) -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshitpathak18&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=4f46e5&hide_border=true&radius=8"/>
 
 </div>
 ---
