@@ -26,7 +26,7 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 - 🧠 &nbsp;Deep expertise in **Agentic AI**, **LangChain** and **LangGraph**
 - 👁️ &nbsp;Experienced in **Computer Vision** & **Knowledge Graphs**
 - ⚡ &nbsp;Building production-grade AI with **FastAPI**, **PostgreSQL** & **MongoDB**
-- 💬 &nbsp;Ask me about **Prompt Engineering**, **RAG**, or **LLM Fine-Tuning**
+- 💬 &nbsp;Ask me about **AI/ML**, **Prompt Engineering**, **RAG**, or **LLM Fine-Tuning**
 - 🤝 &nbsp;Open to collaborations on cutting-edge AI projects
 
 <br clear="right"/>
