@@ -32,7 +32,6 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 <br clear="right"/>
 
 ---
-
 ## 🔥 Current Focus
 
 <div align="center">
