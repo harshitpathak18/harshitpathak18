@@ -122,7 +122,30 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitpathak18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd"/>
 
 </div>
+---
+## 📊 GitHub Analytics
 
+<div align="center">
+
+<!-- Main Stats + Top Languages (cached to prevent API timeouts) -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshitpathak18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&cache_seconds=1800&rank_icon=github&custom_title=GitHub%20Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitpathak18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&cache_seconds=1800&langs_count=8&hide=html,css,jupyter%20notebook"/>
+
+<br/><br/>
+
+<!-- Profile Summary Card (extremely reliable, never breaks) -->
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitpathak18&theme=tokyonight"/>
+
+<br/><br/>
+
+<!-- Contribution Snake (self-hosted, never errors once set up) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitpathak18/harshitpathak18/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitpathak18/harshitpathak18/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshitpathak18/harshitpathak18/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
 ---
 
 ## 🏆 Trophies
