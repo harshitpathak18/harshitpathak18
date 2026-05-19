@@ -110,20 +110,6 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshitpathak18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitpathak18&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=c4b5fd"/>
-
-<br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitpathak18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd"/>
-
-</div>
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -149,6 +135,7 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshitpathak18&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=4f46e5&hide_border=true&radius=8"/>
 
 </div>
+
 ---
 
 ## 🏆 Trophies
@@ -169,14 +156,6 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 [![OmniHealth](https://github-readme-stats.vercel.app/api/pin/?username=harshitpathak18&repo=OmniHealth---Smart-Health-Disease-Predictor-Predictor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd)](https://github.com/harshitpathak18/OmniHealth---Smart-Health-Disease-Predictor-Predictor)
 [![Kaggle Notebooks](https://github-readme-stats.vercel.app/api/pin/?username=harshitpathak18&repo=Kaggle-Notebooks&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd)](https://github.com/harshitpathak18/Kaggle-Notebooks)
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitpathak18&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=4f46e5&hide_border=true&radius=8" width="100%"/>
 </div>
 
 ---
