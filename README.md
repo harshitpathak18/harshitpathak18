@@ -1,45 +1,190 @@
-<img src = "https://github.com/harshitpathak18/harshitpathak18/blob/main/Images/gif1.gif">
+<div align="center">
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+<!-- Dynamic Typing Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Harshit%20Pathak&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Fine-Tuning%20%7C%20Agentic%20AI&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
-<img align="right" alt="GIF" height="250px" src="https://camo.githubusercontent.com/a2eccbee43e0a4ad62babc1d19786e81ba8e871a81dab4ee17f31336dcf6272c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61352f33352f36302f61353335363063383038383930306532363638383066373739646163636564372e676966" />
+<!-- Typing Animation -->
+<a href="https://github.com/harshitpathak18">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=🤖+AI+Engineer+%7C+LLM+Fine-Tuning+Specialist;🧠+Agentic+AI+%7C+LangChain+%7C+LangGraph;🔬+Computer+Vision+%7C+Deep+Learning;🛠️+Building+Intelligent+Systems+at+Scale;📡+MCP+%7C+Knowledge+Graphs+%7C+RAG+Pipelines" alt="Typing SVG" />
+</a>
 
-<br>
+<br/>
 
-#### Passionate Data Scientist
+<!-- Profile Views + Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=harshitpathak18&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://linkedin.com/in/harshitpathak18">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/harshitpathak18">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-LLM%20Fine--Tuning%20%26%20MCP-7c3aed?style=flat-square" />
+</p>
 
-- 🌱 I’m currently learning LLMs
-- 💬 Ask Me: about Data Science and related technologies
-- 💪🏼 Future Goals: Learn more technologies
-- ⚡ Fun Fact: I’m detail-oriented and love optimizing things—not just in my code but in how I present ideas and solutions! ⚡📊
+</div>
 
-<br><br>
-<h2>⚙️ Tech Stack</h2>
+---
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+## 🧬 About Me
 
-<br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitpathak18)
+```python
+class HarshitPathak:
+    role        = "AI Engineer"
+    location    = "India 🇮🇳"
+    
+    currently_working_on = [
+        "LLM Fine-Tuning (LoRA, QLoRA, PEFT)",
+        "Model Context Protocol (MCP)"
+    ]
+    
+    expertise = {
+        "LLMs"            : ["Fine-tuning", "Prompt Engineering", "RAG", "MCP"],
+        "Agentic AI"      : ["LangChain", "LangGraph", "Multi-Agent Systems"],
+        "Deep Learning"   : ["TensorFlow", "Keras", "Computer Vision"],
+        "Backend"         : ["FastAPI", "PostgreSQL", "MongoDB"],
+        "Data"            : ["Knowledge Graphs", "NLP", "OpenCV"],
+    }
+    
+    fun_fact = "I optimize models like I optimize code — obsessively. ⚡"
+    
+    open_to  = ["Collaborations", "Research", "Open Source"]
+```
 
+---
 
-<br><br>
-<h2>🌐 Socials</h2>
+## 🚀 Current Focus
+
+<div align="center">
+
+| 🔬 Fine-Tuning LLMs | 🤖 MCP Development |
+|:---:|:---:|
+| LoRA · QLoRA · PEFT · RLHF | Model Context Protocol · Tool-use AI |
+| Mistral · LLaMA · Phi · Qwen | Agent Orchestration · Memory Systems |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / ML / LLM
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+### 🧠 LLM & Agentic AI
+<p>
+  <img src="https://img.shields.io/badge/🦜 LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🕸️ LangGraph-1a1a2e?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7c3aed?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-0f172a?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-6d28d9?style=for-the-badge&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Backend
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Knowledge%20Graph-e11d48?style=for-the-badge&logoColor=white"/>
+</p>
+
+### 🧰 Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/harshitpathak18">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitpathak18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitpathak18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+</a>
+
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitpathak18&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshitpathak18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔬 **LLM Fine-Tuner** | Fine-tune & optimize ML models with a user-friendly interface | `Python` `HuggingFace` `Streamlit` |
+| 🏥 **OmniHealth** | Multi-disease prediction system using ML models | `Python` `FastAPI` `Scikit-learn` |
+| 🛒 **Market Segmentation** | Automated customer segmentation pipeline | `Python` `ML` `Pandas` |
+| 📓 **Kaggle Notebooks** | EDA & ML notebooks across competitions | `Python` `Jupyter` `Plotly` |
+| 🤖 **LLM Projects** | LangChain & LangGraph agent applications | `LangChain` `LangGraph` `FastAPI` |
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitpathak18&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
 
 <a href="https://linkedin.com/in/harshitpathak18">
-  <img src="https://cdn-icons-png.flaticon.com/128/4494/4494497.png" width="60" height="60" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/harshitpathak18">
-  <img src="https://cdn-icons-png.flaticon.com/128/270/270798.png" width="60" height="60" />
+&nbsp;
+<a href="https://www.kaggle.com/harshitpathak18">
+  <img src="https://img.shields.io/badge/Kaggle-My%20Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
-<a href="https://instagram.com/harshitpathak18">
-  <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="60" height="60" />
+&nbsp;
+<a href="mailto:harshitpathak18@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br/><br/>
 
-<br><br>
-<h2>✍️ Today's Quote </h2>
+> *"The best way to predict the future is to build it — one model at a time."*
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" > 
+</div>
+
 
