@@ -37,17 +37,28 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   🧬  LLM Fine-Tuning         🤖  MCP Development      │
-│   LoRA · QLoRA · PEFT · RLHF  Tool-use · Agents        │
-│                                                         │
-│   🕸️  Agentic Systems          🔍  RAG Pipelines        │
-│   Multi-Agent · Memory         Vector DBs · Retrieval   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/🧬-LLM%20Fine--Tuning-7c3aed?style=for-the-badge&labelColor=0d1117"/><br/>
+      <sub><code>LoRA</code> · <code>QLoRA</code> · <code>PEFT</code> · <code>RLHF</code></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/🤖-MCP%20Development-4f46e5?style=for-the-badge&labelColor=0d1117"/><br/>
+      <sub><code>Tool-use</code> · <code>Agents</code> · <code>Context</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/🕸️-Agentic%20Systems-6d28d9?style=for-the-badge&labelColor=0d1117"/><br/>
+      <sub><code>Multi-Agent</code> · <code>Memory</code> · <code>Planning</code></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/🔍-RAG%20Pipelines-8b5cf6?style=for-the-badge&labelColor=0d1117"/><br/>
+      <sub><code>Vector DBs</code> · <code>Retrieval</code> · <code>Embedding</code></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
