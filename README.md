@@ -146,15 +146,6 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshitpathak18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" width="98%"/>
-
-</div>
-
----
 
 ## 📌 Featured Projects
 
