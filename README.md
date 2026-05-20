@@ -1,8 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshit%20Kumar%20Pathak&fontSize=62&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harshit%20Kumar%20Pathak&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer&descSize=24&descAlignY=55&descColor=c4b5fd" width="100%"/>
+
 <div align="center">
 
 <a href="https://github.com/harshitpathak18">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=LLM+Fine-Tuning+%7C+Agentic+AI+%7C+MCP;LangChain+%7C+LangGraph+%7C+RAG;Production-Grade+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=820&lines=Large+Language+Model+Fine-Tuning+%7C+Agentic+Artificial+Intelligence;Retrieval-Augmented+Generation+%7C+Model+Context+Protocol;LangChain+%7C+LangGraph+%7C+Computer+Vision+%7C+Knowledge+Graphs;Building+Production-Grade+Intelligent+Systems+%F0%9F%9A%80" />
 </a>
 
 <br/>
@@ -229,8 +230,6 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
-*⚡ From data to intelligence — one model at a time.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling&desc=From%20data%20to%20intelligence%20%E2%80%94%20one%20model%20at%20a%20time&descSize=16&descAlignY=65&descColor=c4b5fd" width="100%"/>
 
 </div>
