@@ -1,38 +1,40 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harshit%20Kumar%20Pathak&fontSize=62&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Harshit%20Kumar%20Pathak%0A%F0%9F%A4%96%20AI/ML%20Engineer&fontSize=55&fontSize2=28&fontColor=fff&fontColor2=a78bfa&animation=twinkling" width="100%"/>
 
 <div align="center">
 
-<h2 style="color: #a78bfa; font-size: 24px; margin-top: -10px;">🤖 AI/ML Engineer</h2>
-
-<p style="font-size: 14px; color: #999;">
-  Crafting intelligent systems with LLMs • Agentic AI • Production-Grade Solutions
+<p style="font-size: 16px; color: #a78bfa; margin-top: 15px; font-weight: 500; letter-spacing: 1px;">
+  ✨ Crafting Intelligent Systems with LLMs • Agentic AI • Production-Grade Solutions ✨
 </p>
-
-<a href="https://github.com/harshitpathak18">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=LLM+Fine-Tuning+%7C+Agentic+AI+%7C+MCP;LangChain+%7C+LangGraph+%7C+RAG;FastAPI+%7C+Production+Systems;Pushing+AI+Boundaries+→" alt="Typing SVG" />
-</a>
 
 <br/>
 
-<div style="margin-top: 15px;">
-  <a href="https://linkedin.com/in/harshitpathak18" target="_blank" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=Connect" alt="LinkedIn"/>
+<div style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=7c3aed&center=true&vCenter=true&width=700&height=60&lines=LLM+Fine-Tuning+%7C+LoRA+%7C+QLoRA;Agentic+AI+%7C+Multi-Agent+Systems;Model+Context+Protocol+%28MCP%29;LangChain+%7C+LangGraph+%7C+RAG;FastAPI+%7C+Production+Systems" alt="Typing SVG" style="display: block; margin: 0 auto;"/>
+</div>
+
+<br/>
+
+<div style="margin-top: 20px; display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+  <a href="https://linkedin.com/in/harshitpathak18" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://kaggle.com/harshitpathak18" target="_blank" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  <a href="https://kaggle.com/harshitpathak18" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="https://github.com/harshitpathak18" target="_blank" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/harshitpathak18" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:harshitpathak18@gmail.com" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:harshitpathak18@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open_to_Collaborations-7c3aed?style=for-the-badge" alt="Open to Collaborations"/>
-<img src="https://img.shields.io/badge/Ask_Me_About-LLMs_&_AI-4f46e5?style=for-the-badge" alt="Ask Me About"/>
+<div style="margin-top: 15px; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Open_to_Collaborations-7c3aed?style=for-the-badge" alt="Open to Collaborations"/>
+  <img src="https://img.shields.io/badge/Ask_Me_About_LLMs-4f46e5?style=for-the-badge" alt="Ask Me About"/>
+</div>
 
 </div>
 
@@ -42,7 +44,7 @@
 
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's possible with large language models and intelligent systems.
+I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's possible with large language models and intelligent systems. With expertise in production-grade AI systems, I build end-to-end solutions from ideation to deployment.
 
 - 🔭 &nbsp;Currently working on **LLM Fine-Tuning** and **Model Context Protocol (MCP)**
 - 🧠 &nbsp;Deep expertise in **Agentic AI**, **LangChain** and **LangGraph**
@@ -64,36 +66,36 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
     <td align="center" width="50%">
       <h3>🧬 LLM Fine-Tuning</h3>
       <p><em>Optimizing models with advanced techniques</em></p>
-      <a href="https://github.com/microsoft/LoRA"><img src="https://img.shields.io/badge/LoRA-8b5cf6?style=flat-square&logoColor=white" alt="LoRA"/></a><br/>
-      <a href="https://github.com/artidoro/qlora"><img src="https://img.shields.io/badge/QLoRA-7c3aed?style=flat-square&logoColor=white" alt="QLoRA"/></a><br/>
-      <a href="https://github.com/huggingface/peft"><img src="https://img.shields.io/badge/PEFT-6d28d9?style=flat-square&logoColor=white" alt="PEFT"/></a><br/>
-      <a href="https://arxiv.org/abs/2203.02155"><img src="https://img.shields.io/badge/RLHF-4f46e5?style=flat-square&logoColor=white" alt="RLHF"/></a>
+      <a href="https://github.com/microsoft/LoRA" target="_blank"><img src="https://img.shields.io/badge/LoRA-8b5cf6?style=flat-square&logoColor=white" alt="LoRA"/></a><br/>
+      <a href="https://github.com/artidoro/qlora" target="_blank"><img src="https://img.shields.io/badge/QLoRA-7c3aed?style=flat-square&logoColor=white" alt="QLoRA"/></a><br/>
+      <a href="https://github.com/huggingface/peft" target="_blank"><img src="https://img.shields.io/badge/PEFT-6d28d9?style=flat-square&logoColor=white" alt="PEFT"/></a><br/>
+      <a href="https://arxiv.org/abs/2203.02155" target="_blank"><img src="https://img.shields.io/badge/RLHF-4f46e5?style=flat-square&logoColor=white" alt="RLHF"/></a>
     </td>
     <td align="center" width="50%">
       <h3>🤖 MCP Development</h3>
       <p><em>Building intelligent tool-using agents</em></p>
-      <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/Tool%20Use-4f46e5?style=flat-square&logoColor=white" alt="Tool Use"/></a><br/>
-      <a href="https://github.com/langchain-ai/langgraph"><img src="https://img.shields.io/badge/Agents-6d28d9?style=flat-square&logoColor=white" alt="Agents"/></a><br/>
-      <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/Context%20Protocol-7c3aed?style=flat-square&logoColor=white" alt="Context"/></a><br/>
-      <a href="https://python.langchain.com"><img src="https://img.shields.io/badge/Integration-8b5cf6?style=flat-square&logoColor=white" alt="Integration"/></a>
+      <a href="https://modelcontextprotocol.io" target="_blank"><img src="https://img.shields.io/badge/Tool_Use-4f46e5?style=flat-square&logoColor=white" alt="Tool Use"/></a><br/>
+      <a href="https://github.com/langchain-ai/langgraph" target="_blank"><img src="https://img.shields.io/badge/Agents-6d28d9?style=flat-square&logoColor=white" alt="Agents"/></a><br/>
+      <a href="https://modelcontextprotocol.io" target="_blank"><img src="https://img.shields.io/badge/MCP_Protocol-7c3aed?style=flat-square&logoColor=white" alt="Context"/></a><br/>
+      <a href="https://python.langchain.com" target="_blank"><img src="https://img.shields.io/badge/Integration-8b5cf6?style=flat-square&logoColor=white" alt="Integration"/></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <h3>🕸️ Agentic Systems</h3>
       <p><em>Multi-agent orchestration & autonomy</em></p>
-      <a href="https://github.com/langchain-ai/langgraph"><img src="https://img.shields.io/badge/Multi%20Agent-6d28d9?style=flat-square&logoColor=white" alt="Multi-Agent"/></a><br/>
-      <a href="https://python.langchain.com/docs/modules/memory/"><img src="https://img.shields.io/badge/Memory-7c3aed?style=flat-square&logoColor=white" alt="Memory"/></a><br/>
-      <a href="https://github.com/langchain-ai/langgraph"><img src="https://img.shields.io/badge/Planning-8b5cf6?style=flat-square&logoColor=white" alt="Planning"/></a><br/>
-      <a href="https://python.langchain.com"><img src="https://img.shields.io/badge/Orchestration-a78bfa?style=flat-square&logoColor=white" alt="Orchestration"/></a>
+      <a href="https://github.com/langchain-ai/langgraph" target="_blank"><img src="https://img.shields.io/badge/Multi_Agent-6d28d9?style=flat-square&logoColor=white" alt="Multi-Agent"/></a><br/>
+      <a href="https://python.langchain.com/docs/modules/memory/" target="_blank"><img src="https://img.shields.io/badge/Memory-7c3aed?style=flat-square&logoColor=white" alt="Memory"/></a><br/>
+      <a href="https://github.com/langchain-ai/langgraph" target="_blank"><img src="https://img.shields.io/badge/Planning-8b5cf6?style=flat-square&logoColor=white" alt="Planning"/></a><br/>
+      <a href="https://python.langchain.com" target="_blank"><img src="https://img.shields.io/badge/Orchestration-a78bfa?style=flat-square&logoColor=white" alt="Orchestration"/></a>
     </td>
     <td align="center" width="50%">
       <h3>🔍 RAG Pipelines</h3>
       <p><em>Retrieval-augmented generation systems</em></p>
-      <a href="https://faiss.ai"><img src="https://img.shields.io/badge/Vector%20DBs-00599C?style=flat-square&logoColor=white" alt="Vector DBs"/></a><br/>
-      <a href="https://python.langchain.com/docs/use_cases/retrieval/"><img src="https://img.shields.io/badge/Retrieval-FF6B35?style=flat-square&logoColor=white" alt="Retrieval"/></a><br/>
-      <a href="https://huggingface.co/tasks/sentence-similarity"><img src="https://img.shields.io/badge/Embedding-7c3aed?style=flat-square&logoColor=white" alt="Embedding"/></a><br/>
-      <a href="https://github.com/AnswerAI/Reranker"><img src="https://img.shields.io/badge/Reranking-c084fc?style=flat-square&logoColor=white" alt="Reranking"/></a>
+      <a href="https://faiss.ai" target="_blank"><img src="https://img.shields.io/badge/Vector_DBs-00599C?style=flat-square&logoColor=white" alt="Vector DBs"/></a><br/>
+      <a href="https://python.langchain.com/docs/use_cases/retrieval/" target="_blank"><img src="https://img.shields.io/badge/Retrieval-FF6B35?style=flat-square&logoColor=white" alt="Retrieval"/></a><br/>
+      <a href="https://huggingface.co/tasks/sentence-similarity" target="_blank"><img src="https://img.shields.io/badge/Embedding-7c3aed?style=flat-square&logoColor=white" alt="Embedding"/></a><br/>
+      <a href="https://github.com/AnswerAI/Reranker" target="_blank"><img src="https://img.shields.io/badge/Reranking-c084fc?style=flat-square&logoColor=white" alt="Reranking"/></a>
     </td>
   </tr>
 </table>
@@ -254,24 +256,32 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 
 ## 🚀 Let's Connect & Build Together
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Building%20Intelligence%20Into%20Systems&fontSize=32&fontColor=fff&animation=twinkling" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Building%20Intelligence%20Into%20Systems&fontSize=28&fontColor=fff&animation=twinkling" width="100%"/>
-
-<br/>
-
-<p style="font-size: 16px; color: #a78bfa; margin-top: 10px; font-weight: bold;">
+<p style="font-size: 18px; color: #a78bfa; margin-top: 15px; font-weight: bold; letter-spacing: 0.5px;">
   ✨ Transforming Ideas into Intelligent Solutions ✨
 </p>
 
-<p style="color: #999; font-size: 14px;">
-  💡 Have an AI project in mind? Let's collaborate!<br/>
-  📧 Reach out: <strong>harshitpathak18@gmail.com</strong>
+<p style="color: #c4b5fd; font-size: 15px; margin: 10px 0;">
+  Have an AI/ML project in mind? <strong>Let's collaborate and build something amazing!</strong>
+</p>
+
+<p style="color: #a78bfa; font-size: 14px; font-weight: 500;">
+  📧 <strong>Reach out:</strong> harshitpathak18@gmail.com
 </p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-7c3aed?style=for-the-badge&logo=github" alt="Status"/>
-<img src="https://img.shields.io/badge/Response_Time-24_Hours-4f46e5?style=for-the-badge" alt="Response Time"/>
+<div style="margin-top: 15px; display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-7c3aed?style=for-the-badge&logo=github" alt="Status"/>
+  <img src="https://img.shields.io/badge/Response_Time-24_Hours-4f46e5?style=for-the-badge" alt="Response Time"/>
+  <img src="https://img.shields.io/badge/Experience-Production_Grade_AI-6d28d9?style=for-the-badge" alt="Experience"/>
+</div>
+
+<br/>
+
+*⚡ From data to intelligence — one model at a time. 🚀*
 
 </div>
