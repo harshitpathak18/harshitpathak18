@@ -1,16 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshit%20Kumar%20Pathak&fontSize=58&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshit%20Kumar%20Pathak&fontSize=58&fontColor=fff&animation=twinkling"/>
 
 <div align="center">
 
 <a href="https://github.com/harshitpathak18">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=LLM+Fine-Tuning+%7C+Agentic+AI+%7C+MCP;LangChain+%7C+FastAPI+%7C+RAG+Systems;AI+Engineer+%7C+ML+Specialist+%7C+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=LLM+Fine-Tuning+%7C+Agentic+AI+%7C+MCP;LangChain+%7C+RAG+%7C+Vector+Databases;Building+Production-Grade+AI+Systems"/>
 </a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitpathak18)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/harshitpathak18)
-[![Profile Views](https://komarev.com/ghpvc/?username=harshitpathak18&label=Profile+Views&color=7c3aed&style=flat-square)](https://github.com/harshitpathak18)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitpathak18)
 
 </div>
 
@@ -37,9 +37,38 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 
 <div align="center">
 
-| 🧬 LLM Fine-Tuning | 🤖 MCP Development | 🕸️ Agentic Systems | 🔍 RAG Pipelines |
-|:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/LoRA-8b5cf6?style=flat-square&logoColor=white" alt="LoRA"/><br/><img src="https://img.shields.io/badge/QLoRA-7c3aed?style=flat-square&logoColor=white" alt="QLoRA"/><br/><img src="https://img.shields.io/badge/PEFT-6d28d9?style=flat-square&logoColor=white" alt="PEFT"/> | <img src="https://img.shields.io/badge/Tool--use-4f46e5?style=flat-square&logoColor=white" alt="Tool-use"/><br/><img src="https://img.shields.io/badge/Agents-5551f5?style=flat-square&logoColor=white" alt="Agents"/><br/><img src="https://img.shields.io/badge/Context-6366f1?style=flat-square&logoColor=white" alt="Context"/> | <img src="https://img.shields.io/badge/Multi--Agent-6d28d9?style=flat-square&logoColor=white" alt="Multi-Agent"/><br/><img src="https://img.shields.io/badge/Memory-7c3aed?style=flat-square&logoColor=white" alt="Memory"/><br/><img src="https://img.shields.io/badge/Planning-8b5cf6?style=flat-square&logoColor=white" alt="Planning"/> | <img src="https://img.shields.io/badge/Vector%20DBs-a78bfa?style=flat-square&logoColor=white" alt="Vector DBs"/><br/><img src="https://img.shields.io/badge/Retrieval-b794f6?style=flat-square&logoColor=white" alt="Retrieval"/><br/><img src="https://img.shields.io/badge/Embedding-c4b5fd?style=flat-square&logoColor=white" alt="Embedding"/> |
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>🧬 LLM Fine-Tuning</h3>
+      <img src="https://img.shields.io/badge/LoRA-8b5cf6?style=flat-square&logoColor=white" alt="LoRA"/><br/>
+      <img src="https://img.shields.io/badge/QLoRA-7c3aed?style=flat-square&logoColor=white" alt="QLoRA"/><br/>
+      <img src="https://img.shields.io/badge/PEFT-6d28d9?style=flat-square&logoColor=white" alt="PEFT"/><br/>
+      <img src="https://img.shields.io/badge/RLHF-4f46e5?style=flat-square&logoColor=white" alt="RLHF"/>
+    </td>
+    <td align="center" width="25%">
+      <h3>🤖 MCP Development</h3>
+      <img src="https://img.shields.io/badge/Tool%20Use-4f46e5?style=flat-square&logoColor=white" alt="Tool Use"/><br/>
+      <img src="https://img.shields.io/badge/Agents-6d28d9?style=flat-square&logoColor=white" alt="Agents"/><br/>
+      <img src="https://img.shields.io/badge/Context%20Protocol-7c3aed?style=flat-square&logoColor=white" alt="Context"/><br/>
+      <img src="https://img.shields.io/badge/Integration-8b5cf6?style=flat-square&logoColor=white" alt="Integration"/>
+    </td>
+    <td align="center" width="25%">
+      <h3>🕸️ Agentic Systems</h3>
+      <img src="https://img.shields.io/badge/Multi%20Agent-6d28d9?style=flat-square&logoColor=white" alt="Multi-Agent"/><br/>
+      <img src="https://img.shields.io/badge/Memory-7c3aed?style=flat-square&logoColor=white" alt="Memory"/><br/>
+      <img src="https://img.shields.io/badge/Planning-8b5cf6?style=flat-square&logoColor=white" alt="Planning"/><br/>
+      <img src="https://img.shields.io/badge/Orchestration-a78bfa?style=flat-square&logoColor=white" alt="Orchestration"/>
+    </td>
+    <td align="center" width="25%">
+      <h3>🔍 RAG Pipelines</h3>
+      <img src="https://img.shields.io/badge/Vector%20DBs-00599C?style=flat-square&logoColor=white" alt="Vector DBs"/><br/>
+      <img src="https://img.shields.io/badge/Retrieval-FF6B35?style=flat-square&logoColor=white" alt="Retrieval"/><br/>
+      <img src="https://img.shields.io/badge/Embedding-7c3aed?style=flat-square&logoColor=white" alt="Embedding"/><br/>
+      <img src="https://img.shields.io/badge/Reranking-c084fc?style=flat-square&logoColor=white" alt="Reranking"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -143,17 +172,7 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshitpathak18&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=4f46e5&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshitpathak18&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=5&margin-h=5" width="100%"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshitpathak18&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=4f46e5&hide_border=true"/>
 
 </div>
 
@@ -165,15 +184,9 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 
 ### 🧠 MedicalBot - AI-Powered Health Assistant
 
-<img src="https://github.com/harshitpathak18/MedicalBot/raw/main/screenshots/1.png" width="30%" alt="MedicalBot Interface 1"/>
-<img src="https://github.com/harshitpathak18/MedicalBot/raw/main/screenshots/2.png" width="30%" alt="MedicalBot Interface 2"/>
-<img src="https://github.com/harshitpathak18/MedicalBot/raw/main/screenshots/3.png" width="30%" alt="MedicalBot Interface 3"/>
-
-**An advanced RAG-powered medical chatbot** providing AI-backed health insights for 2000+ medical topics using retrieval-augmented generation with FAISS vector search and cross-encoder reranking.
-
-**Key Features:** RAG Pipeline | Multi-Query Retrieval | FAISS Vectorstore | Cross-Encoder Reranking | Query Classification | Safety-Focused
-
-**Tech Stack:** Python · LangChain · FAISS · Streamlit · Google Gemini
+<img src="https://github.com/harshitpathak18/MedicalBot/raw/main/screenshots/1.png" width="30%" alt="MedicalBot"/>
+<img src="https://github.com/harshitpathak18/MedicalBot/raw/main/screenshots/2.png" width="30%" alt="MedicalBot"/>
+<img src="https://github.com/harshitpathak18/MedicalBot/raw/main/screenshots/3.png" width="30%" alt="MedicalBot"/>
 
 [![View Project](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshitpathak18/MedicalBot)
 
@@ -181,15 +194,9 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 
 ### 🤖 ML Fine-Tuner - Interactive Model Optimization
 
-<img src="https://github.com/harshitpathak18/ML-Fine-Tuner/raw/main/Screenshots/1.png" width="30%" alt="ML Fine-Tuner 1"/>
-<img src="https://github.com/harshitpathak18/ML-Fine-Tuner/raw/main/Screenshots/2.png" width="30%" alt="ML Fine-Tuner 2"/>
-<img src="https://github.com/harshitpathak18/ML-Fine-Tuner/raw/main/Screenshots/3.png" width="30%" alt="ML Fine-Tuner 3"/>
-
-**A comprehensive Streamlit web application** for building, training, and fine-tuning machine learning models with an intuitive UI for parameter optimization and model evaluation.
-
-**Key Features:** Dataset Overview | Feature Selection | Correlation Analysis | Model Evaluation | Hyperparameter Tuning | ML Algorithm Visualization | AI Chatbot (Luna)
-
-**Tech Stack:** Python · Streamlit · Scikit-learn · Pandas · Plotly
+<img src="https://github.com/harshitpathak18/ML-Fine-Tuner/raw/main/Screenshots/1.png" width="30%" alt="ML Fine-Tuner"/>
+<img src="https://github.com/harshitpathak18/ML-Fine-Tuner/raw/main/Screenshots/2.png" width="30%" alt="ML Fine-Tuner"/>
+<img src="https://github.com/harshitpathak18/ML-Fine-Tuner/raw/main/Screenshots/3.png" width="30%" alt="ML Fine-Tuner"/>
 
 [![View Project](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshitpathak18/ML-Fine-Tuner)
 
@@ -197,15 +204,9 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 
 ### 🔍 QueryMate - Multi-Source RAG Chatbot
 
-<img src="https://github.com/harshitpathak18/RAG-ChatBot/raw/main/screenshots/1.png" width="30%" alt="QueryMate 1"/>
-<img src="https://github.com/harshitpathak18/RAG-ChatBot/raw/main/screenshots/2.png" width="30%" alt="QueryMate 2"/>
-<img src="https://github.com/harshitpathak18/RAG-ChatBot/raw/main/screenshots/3.png" width="30%" alt="QueryMate 3"/>
-
-**An intelligent chatbot** designed to extract insights from multiple knowledge sources including websites, PDFs, and datasets with instant AI-generated answers.
-
-**Key Features:** Web Scraping | PDF Processing | Dataset Analysis | Multi-Source Retrieval | Instant Answers | User-Friendly Interface
-
-**Tech Stack:** Python · Streamlit · LangChain · FAISS · BeautifulSoup
+<img src="https://github.com/harshitpathak18/RAG-ChatBot/raw/main/screenshots/1.png" width="30%" alt="QueryMate"/>
+<img src="https://github.com/harshitpathak18/RAG-ChatBot/raw/main/screenshots/2.png" width="30%" alt="QueryMate"/>
+<img src="https://github.com/harshitpathak18/RAG-ChatBot/raw/main/screenshots/3.png" width="30%" alt="QueryMate"/>
 
 [![View Project](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshitpathak18/RAG-ChatBot)
 
