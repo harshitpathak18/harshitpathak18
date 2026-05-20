@@ -3,10 +3,6 @@
 
 <div align="center">
 
-<p style="font-size: 16px; color: #a78bfa; margin-top: 15px; font-weight: 500; letter-spacing: 1px;">
-  ✨ Crafting Intelligent Systems with LLMs • Agentic AI • Production-Grade Solutions ✨
-</p>
-
 <br/>
 
 <div style="margin: 20px 0;">
