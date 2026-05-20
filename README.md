@@ -1,15 +1,38 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshit%20Kumar%20Pathak&fontSize=62&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harshit%20Kumar%20Pathak&fontSize=62&fontColor=fff&animation=twinkling" width="100%"/>
+
 <div align="center">
 
+<h2 style="color: #a78bfa; font-size: 24px; margin-top: -10px;">🤖 AI/ML Engineer</h2>
+
+<p style="font-size: 14px; color: #999;">
+  Crafting intelligent systems with LLMs • Agentic AI • Production-Grade Solutions
+</p>
+
 <a href="https://github.com/harshitpathak18">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=LLM+Fine-Tuning+%7C+Agentic+AI+%7C+MCP;LangChain+%7C+LangGraph+%7C+RAG;Production-Grade+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=LLM+Fine-Tuning+%7C+Agentic+AI+%7C+MCP;LangChain+%7C+LangGraph+%7C+RAG;FastAPI+%7C+Production+Systems;Pushing+AI+Boundaries+→" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitpathak18)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/harshitpathak18)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitpathak18)
+<div style="margin-top: 15px;">
+  <a href="https://linkedin.com/in/harshitpathak18" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=Connect" alt="LinkedIn"/>
+  </a>
+  <a href="https://kaggle.com/harshitpathak18" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://github.com/harshitpathak18" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:harshitpathak18@gmail.com" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open_to_Collaborations-7c3aed?style=for-the-badge" alt="Open to Collaborations"/>
+<img src="https://img.shields.io/badge/Ask_Me_About-LLMs_&_AI-4f46e5?style=for-the-badge" alt="Ask Me About"/>
 
 </div>
 
@@ -227,10 +250,28 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 
 </div>
 
+---
+
+## 🚀 Let's Connect & Build Together
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Building%20Intelligence%20Into%20Systems&fontSize=28&fontColor=fff&animation=twinkling" width="100%"/>
 
-*⚡ From data to intelligence — one model at a time.*
+<br/>
+
+<p style="font-size: 16px; color: #a78bfa; margin-top: 10px; font-weight: bold;">
+  ✨ Transforming Ideas into Intelligent Solutions ✨
+</p>
+
+<p style="color: #999; font-size: 14px;">
+  💡 Have an AI project in mind? Let's collaborate!<br/>
+  📧 Reach out: <strong>harshitpathak18@gmail.com</strong>
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-7c3aed?style=for-the-badge&logo=github" alt="Status"/>
+<img src="https://img.shields.io/badge/Response_Time-24_Hours-4f46e5?style=for-the-badge" alt="Response Time"/>
 
 </div>
