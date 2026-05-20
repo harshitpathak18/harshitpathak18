@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Harshit%20Kumar%20Pathak%0A%F0%9F%A4%96%20AI/ML%20Engineer&fontSize=55&fontSize2=28&fontColor=fff&fontColor2=a78bfa&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshit%20Kumar%20Pathak&fontSize=62&fontColor=fff&animation=twinkling" width="100%"/>
+<div align="center">
 
 <div align="center">
 
