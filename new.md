@@ -1,15 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshit%20Kumar%20Pathak&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer&descSize=22&descAlignY=58&descColor=c4b5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshit%20Kumar%20Pathak&fontSize=58&fontColor=fff&animation=twinkling" width="100%"/>
 
 <div align="center">
 
 <a href="https://github.com/harshitpathak18">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=LLM+Fine-Tuning+%7C+Agentic+AI+%7C+MCP;LangChain+%7C+LangGraph+%7C+RAG+Pipelines;Computer+Vision+%7C+Knowledge+Graphs;Building+Intelligent+Systems+at+Scale+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=LLM+Fine-Tuning+%7C+Agentic+AI+%7C+MCP;LangChain+%7C+RAG+Systems+%7C+Production+ML;AI+Healthcare+Solutions+%7C+Prompt+Engineering" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitpathak18)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/harshitpathak18)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitpathak18)
 [![Profile Views](https://komarev.com/ghpvc/?username=harshitpathak18&label=Profile+Views&color=7c3aed&style=flat-square)](https://github.com/harshitpathak18)
 
 </div>
@@ -160,7 +161,7 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshitpathak18&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=4f46e5&hide_border=true&radius=8"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshitpathak18&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=4f46e5&hide_border=true"/>
 
 </div>
 
@@ -176,13 +177,145 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 
 ## 📌 Featured Projects
 
+### 🎯 Flagship AI & Healthcare Solutions
+
 <div align="center">
 
-[![LLM Fine-Tuner](https://github-readme-stats.vercel.app/api/pin/?username=harshitpathak18&repo=ML-Fine-Tuner&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd)](https://github.com/harshitpathak18/ML-Fine-Tuner)
-[![LLM Projects](https://github-readme-stats.vercel.app/api/pin/?username=harshitpathak18&repo=LLM-Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd)](https://github.com/harshitpathak18/LLM-Projects)
+#### 🏥 OmniHealth - Smart Disease Predictor & Health Assistant
 
-[![OmniHealth](https://github-readme-stats.vercel.app/api/pin/?username=harshitpathak18&repo=OmniHealth---Smart-Health-Disease-Predictor-Predictor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd)](https://github.com/harshitpathak18/OmniHealth---Smart-Health-Disease-Predictor-Predictor)
-[![Kaggle Notebooks](https://github-readme-stats.vercel.app/api/pin/?username=harshitpathak18&repo=Kaggle-Notebooks&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd)](https://github.com/harshitpathak18/Kaggle-Notebooks)
+<table>
+  <tr>
+    <td width="50%">
+      <strong>AI-powered Multi-Disease Prediction</strong><br>
+      • Predicts 6 major diseases (Malaria, Alzheimer's, Kidney, Heart, Diabetes, Pneumonia)<br>
+      • Integrated Baymax AI Health Assistant<br>
+      • 90%+ prediction accuracy<br>
+      • Interactive symptom-based diagnosis<br>
+      📊 Advanced ML Models • 🤖 Google Gemini Integration
+    </td>
+    <td width="50%">
+      <a href="https://github.com/harshitpathak18/OmniHealth---Smart-Health-Disease-Predictor-Predictor">
+        <img src="https://github.com/harshitpathak18/OmniHealth---Smart-Health-Disease-Predictor-Predictor/raw/main/Screenshots/0.png" width="100%" alt="OmniHealth Dashboard"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/harshitpathak18/OmniHealth---Smart-Health-Disease-Predictor-Predictor">
+        <img src="https://img.shields.io/badge/View%20Project-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+#### 💊 MedicalBot - AI Health Assistant with RAG
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/harshitpathak18/MedicalBot">
+        <img src="https://github.com/harshitpathak18/MedicalBot/raw/main/screenshots/1.png" width="100%" alt="MedicalBot Interface"/>
+      </a>
+    </td>
+    <td width="50%">
+      <strong>Advanced Medical Q&A System</strong><br>
+      • RAG-powered medical chatbot with 2000+ topics<br>
+      • MultiQuery Retrieval for comprehensive search<br>
+      • FAISS Vector Database integration<br>
+      • Cross-Encoder Reranking for accuracy<br>
+      • Safety-focused with medical disclaimers<br>
+      🔍 Advanced RAG • 🤖 LLM Integration
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/harshitpathak18/MedicalBot">
+        <img src="https://img.shields.io/badge/View%20Project-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+#### 🧠 ML Fine-Tuner - Interactive Model Optimization Platform
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>User-Friendly ML Model Training Suite</strong><br>
+      • Streamlit-based interactive interface<br>
+      • Support for 10+ ML algorithms<br>
+      • Automated feature engineering & preprocessing<br>
+      • Interactive correlation & statistical analysis<br>
+      • Model deployment & download capabilities<br>
+      • Luna AI Chatbot for ML guidance<br>
+      🎨 Beautiful UI • 🤖 AI Assistant
+    </td>
+    <td width="50%">
+      <a href="https://github.com/harshitpathak18/ML-Fine-Tuner">
+        <img src="https://github.com/harshitpathak18/ML-Fine-Tuner/raw/main/Screenshots/1.png" width="100%" alt="ML Fine-Tuner Interface"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/harshitpathak18/ML-Fine-Tuner">
+        <img src="https://img.shields.io/badge/View%20Project-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+#### 🔍 QueryMate - Multi-Source RAG Chatbot
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/harshitpathak18/RAG-ChatBot">
+        <img src="https://github.com/harshitpathak18/RAG-ChatBot/raw/main/screenshots/1.png" width="100%" alt="QueryMate Interface"/>
+      </a>
+    </td>
+    <td width="50%">
+      <strong>Intelligent Multi-Source Knowledge Extraction</strong><br>
+      • Web scraping from URLs<br>
+      • PDF document processing<br>
+      • CSV/XLSX dataset analysis<br>
+      • FAISS vector database backend<br>
+      • Instant AI-powered insights<br>
+      • LangChain integration<br>
+      🌐 Web • 📄 PDF • 📊 Data
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/harshitpathak18/RAG-ChatBot">
+        <img src="https://img.shields.io/badge/View%20Project-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Other Notable Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **Plant Disease Detection** | 90%+ accuracy plant leaf disease classifier for 9 plant species | TensorFlow, OpenCV, Deep Learning |
+| **Twitter Sentiment Analysis** | Emotion and sentiment analysis on social media data | NLP, scikit-learn, NLTK |
+| **Movie Recommender System** | Content & collaborative filtering recommendation engine | Pandas, scikit-learn, NLP |
+| **Web Scraping Suite** | Python Selenium projects for Amazon, YouTube, Flipkart | Selenium, BeautifulSoup, Data Analysis |
+| **Market Segmentation** | Automated customer segmentation using clustering algorithms | scikit-learn, Pandas, Visualization |
+| **Django Weather App** | Full-stack weather application with real-time data | Django, Python, API Integration |
 
 </div>
 
@@ -195,6 +328,19 @@ I'm an **AI / ML Engineer** passionate about pushing the boundaries of what's po
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
 
 </div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always interested in:
+- 🤖 Building innovative AI/ML solutions
+- 🔬 Fine-tuning and optimizing LLMs
+- 🏥 Healthcare AI applications
+- 🧠 Agentic AI systems
+- 📊 RAG pipelines and knowledge systems
+
+Feel free to reach out or explore my repositories!
 
 <div align="center">
 
